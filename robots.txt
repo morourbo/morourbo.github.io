@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://morourbo.github.io/sitemap.html.gz
+Sitemap: https://morourbo.github.io/app/sitemap.html.gz
+Sitemap: https://morourbo.github.io/assets/sitemap.html.gz
+Sitemap: https://morourbo.github.io/css/sitemap.html.gz
+Sitemap: https://morourbo.github.io/includes/sitemap.html.gz
+Sitemap: https://morourbo.github.io/item/sitemap.html.gz
+Sitemap: https://morourbo.github.io/src/sitemap.html.gz
